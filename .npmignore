@@ -2,6 +2,5 @@
 .eslintrc
 .gitignore
 .npmignore
-src
 test
 testout
